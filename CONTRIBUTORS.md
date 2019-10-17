@@ -30,10 +30,10 @@
 ***
 
 ### Year-In-Review
-- Photo: https://avatars2.githubusercontent.com/u/44439039?s=200&v=4
-- Location: Karachi, Pakistan
-- Bio: Keep track of your activities throughout year
-- Github: https://github.com/Year-In-Review
+- Photo: https://postimg.cc/K32yD62J
+- Location: Pune,India
+- Bio: Instrumentation Engineering Student
+- Github: https://github.com/mattjegan/django-gamification.git
 
 ### Kee Magbanua
 - Photo: https://avatars2.githubusercontent.com/u/55817578?v=4
